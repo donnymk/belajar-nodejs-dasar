@@ -1,0 +1,14 @@
+{
+    "name": "belajar-nodejs-dasar",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "LENOVO",
+    "contributors": [],
+    "dependencies": {}
+}
